@@ -1,5 +1,5 @@
-# RemNew_YWBS.3GX-0.0.5-
-この3GXはVersion0.03から0.0.5に更新しました。
+# RemNew_YWBS.3GX-0.0.6.3-
+この3GXはVersion0.0.5から0.0.6.3に更新しました。
 変更点
 
 ①PIN Lockのつけました。(パスワード間違ったらCTRPFがおちます。)
