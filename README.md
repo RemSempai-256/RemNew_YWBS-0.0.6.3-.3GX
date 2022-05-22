@@ -18,7 +18,7 @@
 ![bandicam 2022-04-22 21-12-04-145](https://user-images.githubusercontent.com/103506390/164712145-2c07ef17-d5a9-46f3-8862-3347bb8fc6fd.jpg)
 
 ここでNoを押すと,CTRPFが落ちるようにしました。↓
-![bandicam 2022-04-23 13-46-57-010](https://user-images.githubusercontent.com/103506390/164878121-8c96b18e-da71-42b3-9bce-f1410b454f63.jpg)
+![bandicam 2022-05-22 17-45-02-234](https://user-images.githubusercontent.com/103506390/169686451-1bd80bf1-d86c-4b87-bd0f-c1c440d9d14d.jpg)
 
 ![bandicam 2022-04-22 21-12-16-926](https://user-images.githubusercontent.com/103506390/164712204-bbde5653-504d-438f-bf0d-8f83e2b63f26.jpg)
 
