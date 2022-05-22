@@ -24,7 +24,7 @@
 
 ![bandicam 2022-04-22 21-12-22-793](https://user-images.githubusercontent.com/103506390/164712234-bb7b29b8-7dd2-4798-91f8-606f44b179e6.jpg)
 
-![bandicam 2022-04-22 21-12-27-836](https://user-images.githubusercontent.com/103506390/164712251-7c1e02aa-adce-4ac2-aa84-eccc07273244.jpg)
+![bandicam 2022-05-22 17-47-30-522](https://user-images.githubusercontent.com/103506390/169686532-3006f44b-b9ec-44d2-875b-526ae7ba916f.jpg)
 
 Version0.0.6.3になって変わったところ。
 
