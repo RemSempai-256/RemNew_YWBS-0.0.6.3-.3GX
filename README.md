@@ -40,9 +40,12 @@ https://discord.gg/Njg9baW9r4
 
 ![bandicam 2022-04-23 15-25-14-732](https://user-images.githubusercontent.com/103506390/164882853-f6475e36-003a-4b33-a8a1-afe53ddd124c.jpg)
 
-変更点これだけです。またVersionアップしたいと思います。
+公開できる変更点はこれだけです。ほかにも面白いギミックがありますのでぜひ使ってみてください !!(PASSWORD はCTRPF6.3です。)
+またVersionアップしたいと思います。
 
-これのVersionは0.0.6.3です。
+この3GXは一般公開Versionです。高級公開Versionより格は下がりますが、使う分には問題ないと思います。(この3GXは高級Versionより3Version低いです。)
+
+この3GXのVersionは0.0.6.3です。
 協力してくれた人
 Tekito_256
 さいきん
