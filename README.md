@@ -30,7 +30,7 @@ Version0.0.6.3になって変わったところ。
 
 PASSを変えました。教えてほしい人は↓(Discord)
 
-https://discord.gg/arQsM6T2XT
+[https://discord.gg/arQsM6T2XT](https://discord.gg/Njg9baW9r4)
 
 テンタクルズを付けました(デンタクですww)↓
 
